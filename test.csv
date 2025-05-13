@@ -1,0 +1,51 @@
+Employee ID,First Name,Age,Gender,Years at Company,Job Role,Monthly Income,Work Life Balance,Job Satisfaction,Performance Rating,Number of Promotions,Overtime,Distance from Home,Education Level,Marital Status,Number of Dependents,Job Level,Company Size,Company Tenure,Remote Work,Leadership Opportunities,Innovation Opportunities,Company Reputation,Employee Recognition,Attrition
+1,Aaron,24,Male,35,Finance,77201,Fair,Medium,High,4,Yes,48,Associate Degree,Divorced,4,Senior,Small,10,Yes,No,No,Excellent,Low,Stayed
+2,Lynn,44,Male,39,Technology,21927,Fair,Medium,Average,2,Yes,24,Associate Degree,Married,0,Entry,Medium,14,Yes,No,No,Fair,Medium,Stayed
+3,Allison,29,Male,12,Healthcare,44179,Poor,Low,Average,5,No,29,Bachelor's Degree,Single,4,Senior,Large,25,Yes,Yes,Yes,Good,Medium,Stayed
+4,Anthony,37,Other,23,Finance,75146,Excellent,Medium,High,1,Yes,36,Master's Degree,Widowed,2,Mid,Small,21,Yes,No,No,Excellent,Medium,Left
+5,Michael,44,Female,32,Technology,68751,Excellent,Low,Below Average,4,No,16,Master's Degree,Widowed,0,Entry,Small,34,Yes,Yes,No,Excellent,High,Left
+6,Crystal,58,Other,24,Media,88951,Fair,High,Below Average,5,No,33,Associate Degree,Divorced,0,Entry,Small,15,Yes,No,No,Fair,Low,Stayed
+7,Jamie,42,Other,16,Finance,19983,Fair,Low,High,0,Yes,27,Master's Degree,Widowed,1,Senior,Small,20,Yes,No,No,Fair,Medium,Stayed
+8,Lauren,40,Female,21,Education,75408,Poor,High,Low,4,Yes,48,Associate Degree,Divorced,4,Mid,Medium,4,No,No,Yes,Excellent,Medium,Stayed
+9,Christopher,41,Male,27,Technology,66011,Fair,Low,Low,1,Yes,8,Associate Degree,Married,5,Mid,Large,37,Yes,Yes,Yes,Fair,Medium,Stayed
+10,Denise,22,Other,23,Technology,24850,Good,High,Below Average,3,Yes,36,PhD,Divorced,0,Entry,Medium,34,No,No,No,Good,High,Left
+11,Carlos,58,Male,35,Finance,89835,Poor,Low,Average,1,Yes,4,Master's Degree,Married,3,Senior,Large,21,Yes,Yes,No,Fair,Medium,Left
+12,Mark,36,Female,17,Education,64246,Good,Very High,Below Average,4,Yes,20,Associate Degree,Single,5,Entry,Large,37,No,Yes,Yes,Fair,Low,Stayed
+13,Jennifer,61,Other,36,Media,48782,Excellent,Low,Low,3,Yes,28,Master's Degree,Widowed,1,Mid,Large,15,Yes,Yes,No,Poor,Low,Left
+14,Hannah,23,Other,11,Finance,57376,Excellent,Very High,Below Average,1,No,50,Associate Degree,Single,1,Mid,Large,8,No,No,No,Excellent,Medium,Left
+15,Pamela,63,Male,39,Technology,22810,Good,Medium,Below Average,2,Yes,13,Associate Degree,Widowed,0,Senior,Medium,30,Yes,No,No,Poor,Low,Stayed
+16,Anthony,59,Other,39,Healthcare,33379,Excellent,Very High,Average,1,No,33,Master's Degree,Divorced,4,Mid,Medium,38,Yes,No,No,Fair,Medium,Left
+17,Katrina,26,Other,1,Finance,65130,Fair,Medium,Low,2,Yes,47,Master's Degree,Married,3,Entry,Small,3,Yes,No,No,Fair,Low,Left
+18,Tony,27,Male,40,Education,20278,Poor,High,Below Average,0,No,19,Bachelor's Degree,Single,0,Senior,Large,24,No,Yes,No,Fair,High,Stayed
+19,Ralph,56,Female,36,Finance,57157,Poor,Medium,Low,1,No,15,Master's Degree,Married,3,Senior,Medium,10,No,Yes,No,Excellent,High,Left
+20,Kimberly,55,Male,36,Media,38009,Fair,Low,Below Average,1,Yes,17,High School,Married,2,Senior,Small,0,Yes,Yes,Yes,Good,Medium,Left
+21,Tamara,26,Male,21,Finance,57389,Fair,Very High,Low,4,Yes,37,Associate Degree,Divorced,0,Mid,Medium,4,Yes,Yes,No,Poor,Medium,Stayed
+22,Amy,19,Female,4,Media,25042,Excellent,Medium,High,3,Yes,4,High School,Married,1,Senior,Large,18,No,No,Yes,Poor,Medium,Left
+23,Edward,45,Male,5,Media,17074,Good,Medium,High,4,No,11,Associate Degree,Widowed,0,Senior,Large,39,Yes,No,No,Fair,Low,Stayed
+24,Ryan,28,Male,18,Education,22782,Excellent,Very High,Average,0,No,46,High School,Widowed,4,Senior,Large,2,No,Yes,Yes,Excellent,Low,Stayed
+25,Julie,35,Other,19,Technology,55056,Good,Low,Average,2,No,27,Bachelor's Degree,Divorced,0,Mid,Large,27,Yes,No,Yes,Fair,Low,Stayed
+26,Cory,51,Male,10,Finance,87916,Good,Medium,Low,3,No,7,Bachelor's Degree,Married,5,Mid,Large,21,Yes,No,No,Good,Low,Stayed
+27,Bryan,20,Male,34,Finance,71660,Fair,Very High,High,2,No,11,Bachelor's Degree,Divorced,5,Entry,Medium,12,No,Yes,No,Good,High,Left
+28,Meghan,24,Female,22,Healthcare,35709,Excellent,Low,High,0,Yes,2,Associate Degree,Married,5,Mid,Large,8,No,No,Yes,Fair,Medium,Left
+29,Frank,40,Other,39,Finance,82234,Good,Low,High,1,No,37,Associate Degree,Widowed,3,Entry,Medium,4,Yes,Yes,No,Excellent,Medium,Stayed
+30,Paul,26,Other,24,Technology,56629,Fair,Very High,High,2,Yes,36,Bachelor's Degree,Single,0,Mid,Small,27,No,No,Yes,Poor,Medium,Stayed
+31,Kenneth,45,Female,18,Media,68521,Good,High,Average,5,Yes,45,High School,Divorced,2,Entry,Large,28,Yes,Yes,No,Fair,Low,Left
+32,Scott,30,Female,14,Healthcare,20275,Excellent,Medium,Average,0,No,3,Master's Degree,Divorced,1,Mid,Medium,22,Yes,No,Yes,Good,Low,Left
+33,Dawn,36,Female,17,Healthcare,72791,Good,High,Low,2,No,23,PhD,Divorced,2,Entry,Large,23,Yes,No,Yes,Poor,High,Stayed
+34,Sharon,46,Female,20,Finance,30594,Good,Very High,Average,5,Yes,38,Master's Degree,Divorced,3,Entry,Large,32,Yes,No,No,Fair,High,Stayed
+35,Janet,55,Female,17,Healthcare,75605,Poor,Low,High,5,Yes,2,Associate Degree,Divorced,0,Senior,Small,36,Yes,No,Yes,Poor,Medium,Left
+36,Kevin,47,Female,13,Finance,31656,Fair,Medium,Low,0,No,10,PhD,Married,4,Senior,Small,34,No,No,Yes,Excellent,Medium,Left
+37,Christopher,37,Other,20,Healthcare,60838,Poor,Very High,Low,5,No,7,PhD,Married,4,Mid,Medium,32,Yes,Yes,No,Good,Medium,Stayed
+38,Ashley,19,Other,25,Finance,21184,Good,High,High,4,Yes,31,Associate Degree,Widowed,0,Mid,Medium,26,Yes,Yes,No,Fair,High,Left
+39,Zachary,48,Female,39,Healthcare,27752,Excellent,Low,Average,4,No,48,PhD,Single,3,Mid,Large,10,No,Yes,Yes,Good,Low,Stayed
+40,James,32,Female,11,Education,86137,Poor,Low,Low,1,No,28,High School,Married,0,Mid,Small,19,No,No,Yes,Good,Low,Left
+41,Christopher,52,Female,40,Finance,47704,Poor,Very High,Low,4,No,5,Associate Degree,Widowed,0,Senior,Small,30,No,Yes,No,Fair,Low,Left
+42,Connie,57,Female,12,Media,39276,Poor,Very High,Low,4,No,49,Associate Degree,Married,1,Entry,Small,4,No,Yes,Yes,Good,Low,Stayed
+43,Brett,22,Male,7,Education,61262,Excellent,Medium,Below Average,0,No,16,High School,Divorced,3,Senior,Small,14,Yes,No,Yes,Fair,High,Stayed
+44,Rhonda,22,Other,38,Technology,73738,Poor,Very High,High,4,Yes,45,High School,Single,3,Mid,Medium,32,Yes,No,Yes,Excellent,Low,Stayed
+45,Karen,63,Other,21,Media,15348,Poor,Medium,Below Average,1,No,40,Bachelor's Degree,Single,3,Senior,Large,20,Yes,Yes,No,Excellent,Low,Left
+46,Adam,31,Other,32,Media,63312,Poor,Very High,Average,0,No,15,Master's Degree,Widowed,1,Senior,Small,15,Yes,No,No,Poor,Medium,Left
+47,Thomas,23,Female,40,Finance,53341,Good,Low,Below Average,1,Yes,36,Bachelor's Degree,Divorced,5,Senior,Medium,38,No,Yes,Yes,Fair,High,Stayed
+48,Derrick,32,Male,4,Finance,20812,Fair,Low,Below Average,0,Yes,38,Bachelor's Degree,Widowed,3,Senior,Medium,18,No,No,No,Good,Medium,Left
+49,Diana,49,Male,23,Media,17542,Good,Medium,High,2,No,16,Master's Degree,Single,4,Entry,Small,39,No,No,No,Excellent,Medium,Stayed
+50,David,18,Male,0,Finance,26282,Poor,Low,High,1,Yes,13,Associate Degree,Married,4,Senior,Medium,40,No,Yes,No,Good,Medium,Stayed
